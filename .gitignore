@@ -1,0 +1,7 @@
+*.xcbkptlist
+*.xcuserstate
+*/xcuserdata/*
+*/david.xcuserdatad/*
+.DS_Store
+calorie-tracker.xcodeproj/project.pbxproj
+calorie-tracker.xcodeproj/project.xcworkspace/xcshareddata/*
